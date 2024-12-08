@@ -1,0 +1,96 @@
+{
+    "Health Insurance": {
+        "all": {
+            "blogs": [
+                NaN,
+                NaN,
+                NaN
+            ],
+            "links": [
+                "https://joinditto.in/articles/health-insurance/what-are-personal-accident-insurance-plans/",
+                "https://joinditto.in/articles/health-insurance/icici-lombard-health-insurance-review/",
+                "https://joinditto.in/articles/health-insurance/tata-aig-vs-hdfc-ergo-health-insurance-review-2/"
+            ],
+            "titles": [
+                "What are Personal Accident Insurance Plans?",
+                "ICICI Lombard Health Insurance Review",
+                "TATA AIG vs HDFC Ergo Health Insurance Review"
+            ]
+        },
+        "senior citizens": {
+            "blogs": [
+                NaN
+            ],
+            "links": [
+                "https://joinditto.in/articles/health-insurance/top-government-health-insurance-plans-for-senior-citizens/"
+            ],
+            "titles": [
+                "What are the Top Government Health Insurance Plans for Senior Citizens"
+            ]
+        },
+        "young professionals": {
+            "blogs": [
+                NaN,
+                NaN,
+                NaN
+            ],
+            "links": [
+                "https://joinditto.in/articles/health-insurance/a-complete-guide-to-ivf-coverage-in-health-insurance/",
+                "https://joinditto.in/articles/health-insurance/top-5-affordable-health-insurance-plans-in-india/",
+                "https://joinditto.in/articles/health-insurance/waiting-period-in-maternity-insurance-heres-everything-you-need-to-know/"
+            ],
+            "titles": [
+                "A Complete Guide to IVF Coverage in Health Insurance",
+                "Top 5 Affordable Health Insurance Plans in India",
+                "Waiting Period in Maternity Insurance: Here's Everything You Need to Know!"
+            ]
+        }
+    },
+    "Life Insurance": {
+        "all": {
+            "blogs": [
+                NaN,
+                NaN,
+                NaN
+            ],
+            "links": [
+                "https://joinditto.in/articles/life-insurance/difference-between-policy-term-and-premium-paying-term-in-term-insurance-plans/",
+                "https://joinditto.in/articles/life-insurance/sbi-life-insurance-review/",
+                "https://joinditto.in/articles/life-insurance/hdfc-life-vs-max-life-insurance-term-insurance/"
+            ],
+            "titles": [
+                "What is the Difference Between Policy Term And Premium Paying Term in Term Insurance Plans?",
+                "SBI Life Insurance Review",
+                "HDFC Life vs Max Life Insurance: A Quick Comparison"
+            ]
+        },
+        "senior citizens": {
+            "blogs": [
+                NaN
+            ],
+            "links": [
+                "https://joinditto.in/articles/life-insurance/plans-for-senior-citizen/"
+            ],
+            "titles": [
+                "Should You Buy Life Insurance Plans for Senior Citizens (60+)?"
+            ]
+        },
+        "young professionals": {
+            "blogs": [
+                NaN,
+                NaN,
+                NaN
+            ],
+            "links": [
+                "https://joinditto.in/articles/life-insurance/what-are-term-insurance-plans-for-couples-in-2024/",
+                "https://joinditto.in/articles/health-insurance/waiting-period-in-maternity-insurance-heres-everything-you-need-to-know/",
+                "https://joinditto.in/articles/life-insurance/child-education-insurance-plans/"
+            ],
+            "titles": [
+                "Term Insurance Plans for Couples",
+                "Waiting Period in Maternity Insurance: Here's Everything You Need to Know!",
+                "What Are Child Education Insurance Plans?"
+            ]
+        }
+    }
+}
