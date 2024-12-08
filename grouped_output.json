@@ -2,9 +2,9 @@
     "Health Insurance": {
         "all": {
             "blogs": [
-                NaN,
-                NaN,
-                NaN
+                null,
+                null,
+                null
             ],
             "links": [
                 "https://joinditto.in/articles/health-insurance/what-are-personal-accident-insurance-plans/",
@@ -19,7 +19,7 @@
         },
         "senior citizens": {
             "blogs": [
-                NaN
+                null
             ],
             "links": [
                 "https://joinditto.in/articles/health-insurance/top-government-health-insurance-plans-for-senior-citizens/"
@@ -30,9 +30,9 @@
         },
         "young professionals": {
             "blogs": [
-                NaN,
-                NaN,
-                NaN
+                null,
+                null,
+                null
             ],
             "links": [
                 "https://joinditto.in/articles/health-insurance/a-complete-guide-to-ivf-coverage-in-health-insurance/",
@@ -49,9 +49,9 @@
     "Life Insurance": {
         "all": {
             "blogs": [
-                NaN,
-                NaN,
-                NaN
+                null,
+                null,
+                null
             ],
             "links": [
                 "https://joinditto.in/articles/life-insurance/difference-between-policy-term-and-premium-paying-term-in-term-insurance-plans/",
@@ -66,7 +66,7 @@
         },
         "senior citizens": {
             "blogs": [
-                NaN
+                null
             ],
             "links": [
                 "https://joinditto.in/articles/life-insurance/plans-for-senior-citizen/"
@@ -77,9 +77,9 @@
         },
         "young professionals": {
             "blogs": [
-                NaN,
-                NaN,
-                NaN
+                null,
+                null,
+                null
             ],
             "links": [
                 "https://joinditto.in/articles/life-insurance/what-are-term-insurance-plans-for-couples-in-2024/",
